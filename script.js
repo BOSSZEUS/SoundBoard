@@ -1,4 +1,4 @@
-const sounds = ['Anime','directed','fat-man','fbi-open-up','epic-sax','coffin-dance','mm-whatcha-say','you-got-that']
+const sounds = ['Anime','directed','fat-man','epic-sax','coffin-dance','mm-whatcha-say','you-got-that']
 sounds.forEach(sound => {
     const btn = document.createElement('button')
     btn.classList.add('btn')
